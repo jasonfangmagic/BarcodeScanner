@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  BarcideScanner
+//  BarcodeScanner
 //
 //  Created by Jason Fang on 6/11/24.
 //
